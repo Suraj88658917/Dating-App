@@ -1,13 +1,13 @@
 
-❤ Pegava - Dating & Relationship App
+Amore - Dating & Relationship App
 
-Welcome to "Pegava", a sleek and modern dating app designed to help people connect and build relationships easily using "React Native" and "Expo".
+Welcome to "Amore", a sleek and modern dating app designed to help people connect and build relationships easily using "React Native" and "Expo".
 
  
 
      🚀 Overview
 
-Pegava is a cross-platform mobile app that offers an elegant, performant, and feature-rich experience for finding connections. Built with cutting-edge libraries and technologies, it ensures smooth animations, robust state management, and a seamless user experience.
+Amore is a cross-platform mobile app that offers an elegant, performant, and feature-rich experience for finding connections. Built with cutting-edge libraries and technologies, it ensures smooth animations, robust state management, and a seamless user experience.
 
  
 
